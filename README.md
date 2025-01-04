@@ -1,0 +1,1 @@
+Repo ini merupakan repo kelompok untuk menyimpan tugas besar pengganti UAS MK Machine Learning. file yang disimpan disini ada file berupa PDF dan file IPYNB notebook dari yang telah dikerjakan oleh masing masing member sesuai dengan tugas nya.
